@@ -1,8 +1,8 @@
-var media
-leia A
-leia B
-leia C
-faça media(A + B + C) ÷ 3
+leia lista
+leia quantidade_lista
+soma = 0
+para cada elemento da lista faça:
+soma = elemento + soma
+media = soma/tamanho_lista
 escreva media
 fim
-
