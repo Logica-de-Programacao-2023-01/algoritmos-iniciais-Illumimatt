@@ -1,0 +1,8 @@
+leia bilhete
+leia hora do filme
+leia hora atual
+se hora atual < hora do filme - 30 minutos então faça
+ escreva "Sala do cinema fechada"
+se hora atual > hora do filme + 30 minutos então faça
+ escreva "Entrada não permitida"
+senão escreva "Vá para a sala do bilhete"

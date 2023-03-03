@@ -1,0 +1,6 @@
+var soma 
+leia A
+leia B 
+faça A + B = soma
+escreva soma
+fim

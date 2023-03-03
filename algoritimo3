@@ -1,0 +1,8 @@
+var media
+leia A
+leia B
+leia C
+faça media(A + B + C) ÷ 3
+escreva media
+fim
+

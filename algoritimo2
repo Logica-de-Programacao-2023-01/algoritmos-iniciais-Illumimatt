@@ -1,0 +1,11 @@
+var Resultado
+var grau
+escreva "insira seu grau"
+leia grau
+pergunte "celsius?"
+se "sim"
+faça Resultado = (grau × 9/5) + 32 
+senão
+faça Resultado = (grau - 32) ÷ 1,8
+escreva Resultado
+fim
