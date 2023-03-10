@@ -1,0 +1,4 @@
+leia X
+var produto = 1 
+para todo numero de 1 ate X faça:
+produto = produto * numero_atual

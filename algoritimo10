@@ -1,0 +1,10 @@
+leia lista
+leia pesos
+var resultadoE = 0
+var resultadoP = 0  
+para cada elemento da lista faça:
+	resultadoE = resultadoE + (elemento * peso_correspondente)
+para cada peso dos pesos faça:
+	resultadoP = resultadoP + peso
+resultado = resultadoE / resultado P
+escreva resultado

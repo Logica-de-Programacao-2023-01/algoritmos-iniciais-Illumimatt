@@ -1,0 +1,6 @@
+leia X
+leia lista
+para cada elemento faça:
+	se elemento for igual a X
+		entao escreva X
+escreva "Não encontrei"

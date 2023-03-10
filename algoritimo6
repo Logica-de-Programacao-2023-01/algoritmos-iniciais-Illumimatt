@@ -1,0 +1,6 @@
+leia X 
+leia Potencia
+var resultado = X
+para todos os valores entre 1 e potencia faça 
+	resultado = resultado * x
+escreva resultado
